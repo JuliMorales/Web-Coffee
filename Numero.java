@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  * @author Jeffer A. Mendoza
  */
 public class Numero {
-    int num;
+    int car;
     
 public static void verificar(int num)
 {
